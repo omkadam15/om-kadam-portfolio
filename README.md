@@ -34,6 +34,14 @@ Projects:
 - Analyzes incorrect AI responses
 - Improves answers using structured reasoning
 
+● Real-World AI Checker
+Built a rule-based system to evaluate AI responses:
+- Detects vague answers
+- Identifies overgeneralization
+- Flags low-quality outputs
+
+This demonstrates practical application of AI evaluation skills.
+
 -------------------------------------------------------------------------------------------------------------------------------------------
 
 Objective:
