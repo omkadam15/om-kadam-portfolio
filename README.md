@@ -9,7 +9,7 @@ I am an IT undergraduate specializing in:
 
 I focus on accuracy, edge case handling, and structured reasoning, which are critical in AI training systems.
 
--------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Key Skills:
 
@@ -18,7 +18,7 @@ Key Skills:
 - Python programming (validation, automation)
 - Structured problem solving
 
--------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Projects:
 
@@ -42,7 +42,14 @@ Built a rule-based system to evaluate AI responses:
 
 This demonstrates practical application of AI evaluation skills.
 
--------------------------------------------------------------------------------------------------------------------------------------------
+● Real-World Use Cases
+
+- Improving AI model accuracy by detecting incorrect outputs  
+- Validating user inputs in real applications  
+- Debugging and improving code quality  
+- Assisting in AI training and data annotation workflows  
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 Objective:
 
