@@ -7,7 +7,7 @@ I am an IT undergraduate specializing in:
 - Debugging and logical error detection
 - Python-based problem solving
 
-I focus on accuracy, edge case handling, and structured reasoning**, which are critical in AI training systems.
+I focus on accuracy, edge case handling, and structured reasoning, which are critical in AI training systems.
 
 -------------------------------------------------------------------------------------------------------------------------------------------
 
