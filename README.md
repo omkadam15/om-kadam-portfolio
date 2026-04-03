@@ -14,7 +14,7 @@ Skills Demonstrated:
 - Edge case detection and debugging
 - Python scripting and automation
 
-Projects:
+Projects: 
 
 -> AI Evaluation
 Analyzing and improving AI-generated responses
